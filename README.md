@@ -1,7 +1,7 @@
 quartz-redis-jobstore
 =====================
 
-[![Build Status](https://secure.travis-ci.org/jlinn/quartz-redis-jobstore.png?branch=master)](http://travis-ci.org/jlinn/quartz-redis-jobstore)
+[![Build Status](https://secure.travis-ci.org/jpcaruana/quartz-redis-jobstore.png?branch=master)](http://travis-ci.org/jpcaruana/quartz-redis-jobstore)
 
 A [Quartz Scheduler](http://quartz-scheduler.org/) JobStore using [Redis](http://redis.io).
 
